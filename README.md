@@ -13,7 +13,7 @@ Caitlin McCoy
 This assignment created an intel into the JavaScript language and required us to practice the language. It also helped me understand the fundamentals of JavaScript. 
 
 ### View Project:
-github.com/ctlnmccy/lesson4_javascript1 
+https://github.com/ctlnmccy/lesson4_javascript1
 
 https://ctlnmccy.github.io/lesson4_javascript1/
 
