@@ -4,22 +4,24 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 12, 2018
 
 ### Student Name:  
-(First and Last Name)
+Caitlin McCoy
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment created an intel into the JavaScript language and required us to practice the language. It also helped me understand the fundamentals of JavaScript. 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+github.com/ctlnmccy/lesson4_javascript1 
+
+https://ctlnmccy.github.io/lesson4_javascript1/
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned the getElementById method. 
+2. I learned how to associate an event with an HTML element. 
+3. I learned how to reference elements on a web page using its id value. 
 
 
 
